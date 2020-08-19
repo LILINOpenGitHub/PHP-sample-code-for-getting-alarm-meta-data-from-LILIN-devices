@@ -20,5 +20,5 @@ Channel #2: http://192.168.0.200:80/getalarmmotion01
 <BR>
 
 Example <BR>
-* CGI command for Navigator
+* CGI command for Navigator <BR>
 http://192.168.0.200:8080/getcmxalarmmotion
