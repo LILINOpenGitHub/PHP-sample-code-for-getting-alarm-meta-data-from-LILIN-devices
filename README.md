@@ -5,7 +5,7 @@ PHP sample code for getting alarm meta data from LILIN devices
 The sample code can be used for LILIN IP cameras/NVR/DVR and NAV recorder.  
 
 * CGI command for IP camera
-Example
+Example <BR>
 http://192.168.0.200:80/getalarmmotion
 
 * CGI command for NVR/DVR
