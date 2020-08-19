@@ -16,8 +16,7 @@ Example <BR>
 http://192.168.0.200:80/getalarmmotion01 for DVR/NVR channel #2: 
 <BR>
 
-* CGI command for Navigator's all cameras
-<BR>
+* CGI command for Navigator's all cameras <BR>
 
 Example <BR>
 * CGI command for Navigator <BR>
