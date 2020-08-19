@@ -13,7 +13,7 @@ http://192.168.0.200:80/getalarmmotion
 http://<serverIP>/getalarmmotion<channel# from 0 to 31> where the number is from channel #1 to #32, zero based
 <BR>
 Example <BR>
-Channel #2: http://192.168.0.200:80/getalarmmotion01  
+http://192.168.0.200:80/getalarmmotion01 for DVR/NVR channel #2: 
 <BR>
 
 * CGI command for Navigator's all cameras
