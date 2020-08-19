@@ -1,6 +1,7 @@
 # PHP-sample-code-for-getting-alarm-meta-data-from-LILIN-devices
 PHP sample code for getting alarm meta data from LILIN devices
-'<?php 
+
+*<?php 
  $srv_ip = '192.168.10.102';
   $srv_port = 80;
   $url = 'http://'. $srv_ip.':80/getalarmmotion';  
