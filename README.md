@@ -1,8 +1,11 @@
-# PHP-sample-code-for-getting-alarm-meta-data-from-LILIN-devices
+# PHP sample code for getting alarm meta data from LILIN devices
 PHP sample code for getting alarm meta data from LILIN devices
 <BR>
+# Getting Started
+Get LILIN network products setup in a local network.
 # The code
 The sample code can be used for LILIN IP cameras/NVR/DVR and NAV recorder.  
+  
 * CGI command for IP camera <BR>
 
 Example <BR>
